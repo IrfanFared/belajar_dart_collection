@@ -1,4 +1,4 @@
-import 'package:belajar_dart_colletion1/belajar_dart_colletion1.dart';
+import 'package:belajar_dart_colletion1/dokumentasi.txt';
 import 'package:test/test.dart';
 
 void main() {
