@@ -1,5 +1,3 @@
-import 'dart:async';
-
 void main() {
   // Mendefinisikan sebuah Iterable
   Iterable<int> numbers = [10, 20, 30, 40, 50];
